@@ -5,6 +5,7 @@ import { createClient as createRedisClient } from "redis";
 
 import { findUser } from "./services/findUser.service";
 
+import cors from "cors";
 require("dotenv").config();
 
 // Initialize Supabase client
@@ -24,6 +25,8 @@ const redis = createRedisClient({
 
 // initialize the express.js server
 const app = express();
+
+app.use(cors());
 
 // BODY PARSING MIDDLEWARE
 app.use(express.urlencoded({ extended: true }));
