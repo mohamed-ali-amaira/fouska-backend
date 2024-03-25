@@ -58,11 +58,11 @@ app.get("/login", (req, res) => {
 app.post("/login", async (req, res) => {
   const user = await findUser(supabase, req.body.phone);
   if (user == null) {
-    return res.render("login", { error: "Numéro de téléphone non existant" });
+    return res.render("login", { error: "Code 1 non existant" });
   }
 
-  if (user.password != req.body.password) {
-    return res.render("login", { error: "Mot De Passe incorrect" });
+  if (user.code_2 != req.body.password) {
+    return res.render("login", { error: "Code 2 incorrect" });
   }
 
   const token = user.uid;

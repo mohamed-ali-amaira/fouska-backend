@@ -4,17 +4,17 @@ import { User } from "../types";
 
 export const findUser = async (
   client: SupabaseClient,
-  phone: string
+  code_1: string
 ): Promise<User | null> => {
   try {
     const { data: users, error } = await client
-      .from("users")
+      .from("access-accounts")
       .select("*")
-      .eq("phone", phone);
+      .eq("code_1", code_1);
 
     // if error, throw error returning null & disabeling authentication for the users
     if (error) throw error;
-    // if a number of users with the same phone exists return the same
+    // if a number of users with the same code_1 exists return the same
     if (users && users.length > 0) {
       return users[0];
     }
