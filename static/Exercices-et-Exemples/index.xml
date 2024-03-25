@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exercices Et Exemples on </title>
+    <link>http://localhost:1313/Exercices-et-Exemples/</link>
+    <description>Recent content in Exercices Et Exemples on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/Exercices-et-Exemples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>leçon 2 - Les Types de Données (nombres et booléan)</title>
+      <link>http://localhost:1313/Exercices-et-Exemples/lesson20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Exercices-et-Exemples/lesson20/</guid>
+      <description>&#xD;Vidéo&#xD;#&#xD;Description&#xD;#&#xD;Lien téléchargement Thonny </description>
+    </item>
+  </channel>
+</rss>

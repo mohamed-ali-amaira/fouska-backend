@@ -1,6 +1,11 @@
 import { SupabaseClient } from "@supabase/supabase-js";
 
-const findUser = async (client: SupabaseClient, phone: string) => {
+import { User } from "../types";
+
+export const findUser = async (
+  client: SupabaseClient,
+  phone: string
+): Promise<User | null> => {
   try {
     const { data: users, error } = await client
       .from("users")

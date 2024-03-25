@@ -4,23 +4,34 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Se connecter</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
   </head>
   <body>
     <div class="login-page">
       <div class="form">
-        <form class="register-form">
-          <input type="text" placeholder="name" />
-          <input type="password" placeholder="password" />
-          <input type="text" placeholder="email address" />
-          <button>create</button>
-          <p class="message">Already registered? <a href="#">Sign In</a></p>
-        </form>
-        <form class="login-form">
-          <input type="text" placeholder="username" />
-          <input type="password" placeholder="password" />
-          <button>login</button>
+        <% if (error && error.trim() !== '') { %>
+        <div class="alert alert-danger" role="alert"><%= error %></div>
+        <% } %>
+
+        <form class="login-form" action="/login" method="POST">
+          <input
+            type="text"
+            placeholder="Numéro De téléphone"
+            name="phone"
+            required
+          />
+          <input
+            type="password"
+            placeholder="Mot De Passe"
+            name="password"
+            required
+          />
+          <button type="submit">Se Connecter</button>
           <p class="message">
-            Not registered? <a href="#">Create an account</a>
+            Pas de Compte ? <a href="#">Acheter un abonnement</a>
           </p>
         </form>
       </div>
@@ -58,7 +69,7 @@
         font-family: "Roboto", sans-serif;
         text-transform: uppercase;
         outline: 0;
-        background: #4CAF50;
+        background: #8440f1;
         width: 100%;
         border: 0;
         padding: 15px;
@@ -69,7 +80,7 @@
         cursor: pointer;
       }
       .form button:hover,.form button:active,.form button:focus {
-        background: #43A047;
+        background: #0055bb;
       }
       .form .message {
         margin: 15px 0 0;
@@ -77,11 +88,8 @@
         font-size: 12px;
       }
       .form .message a {
-        color: #4CAF50;
+        color: #8440f1;
         text-decoration: none;
-      }
-      .form .register-form {
-        display: none;
       }
       .container {
         position: relative;
@@ -117,9 +125,9 @@
         color: #EF3B3A;
       }
       body {
-        background: #76b852; /* fallback for old browsers */
-        background: rgb(141,194,111);
-        background: linear-gradient(90deg, rgba(141,194,111,1) 0%, rgba(118,184,82,1) 50%);
+        background: #b88dff; /* fallback for old browsers */
+        background: #b88dff;
+        /* background: linear-gradient(90deg, rgba(141,194,111,1) 0%, rgba(118,184,82,1) 50%); */
         font-family: "Roboto", sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
