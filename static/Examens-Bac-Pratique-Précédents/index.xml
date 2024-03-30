@@ -1,3 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Examens Bac Pratique Précédents on</title><link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/</link><description>Recent content in Examens Bac Pratique Précédents on</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/index.xml" rel="self" type="application/rss+xml"/><item><title>0. Message Important !</title><link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/alert/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/alert/</guid><description>Noter Bien :#Notre plateforme est mise à jour quotidiennement ! Nous sommes très désireux de faire de cette plateforme la meilleure jamais créée et nous comptons sur votre soutien constant. Nous vous remercions pour votre patience ! Tous les 3 jours, une nouvelle correction vidéo pour un examen du BAC sera mise en ligne ! Si vous avez des questions, n&amp;rsquo;hésitez pas à nous les poser sur Discord !</description></item><item><title>1. Session 2022 - Nombre Ondulant</title><link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam1/</guid><description>Examen en PDF#Description :#C&amp;rsquo;est un devoir de bac pratique officiel proposé en 2022, une correction en format vidéo sera publiée dans 10 jours Maximum!
-Code de la correction Python :#from PyQt5.QtWidgets import QApplication from PyQt5.uic import loadUi def verif(text): return text.isnumeric() and int(text) &amp;gt; 99 def ondulant(text): n = int(text) for i in range(0, len(text) - 2, 2): if not (text[i] == text[i+2] and text[i] !</description></item><item><title>2. Session 2022 - Nombre Lisse</title><link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam2/</guid><description>Examen en PDF#Description :#C&amp;rsquo;est un devoir de bac pratique officiel proposé en 2022, une correction en format vidéo sera publiée dans 10 jours Maximum!
-Code de la correction Python :#from PyQt5.QtWidgets import QApplication from PyQt5.uic import loadUi from math import sqrt def verif(text): return text.isnumeric() and int(text) &amp;gt; 1 def premier(n): c = 0 for i in range(2, n // 2 + 1): if n % i == 0: c = c + 1 return c == 0 def lisse(n): pgd = 1 for i in range(2, n // 2 + 1): if (n % i == 0 and premier(i)): pgd = i return pgd &amp;lt;= sqrt(n) def Play(): text = fen.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Examens Bac Pratique Précédents on </title>
+    <link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/</link>
+    <description>Recent content in Examens Bac Pratique Précédents on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0. Message Important !</title>
+      <link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/alert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/alert/</guid>
+      <description>Noter Bien :&#xD;#&#xD;Notre plateforme est mise à jour quotidiennement ! Nous sommes très désireux de faire de cette plateforme la meilleure jamais créée et nous comptons sur votre soutien constant. Nous vous remercions pour votre patience ! Tous les 3 jours, une nouvelle correction vidéo pour un examen du BAC sera mise en ligne ! Si vous avez des questions, n&amp;rsquo;hésitez pas à nous les poser sur Discord !</description>
+    </item>
+    <item>
+      <title>1. Session 2022 - Nombre Ondulant</title>
+      <link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam1/</guid>
+      <description>Vidéo :&#xD;#&#xD;Examen en PDF :&#xD;#&#xD;Description :&#xD;#&#xD;C&amp;rsquo;est un devoir de bac pratique officiel proposé en 2022, une correction en format vidéo sera publiée dans 10 jours Maximum!&#xA;Code de la correction Python :&#xD;#&#xD;from PyQt5.QtWidgets import QApplication from PyQt5.uic import loadUi def verif(text): return text.isnumeric() and int(text) &amp;gt; 99 def ondulant(text): n = int(text) for i in range(0, len(text) - 2, 2): if not (text[i] == text[i+2] and text[i] !</description>
+    </item>
+    <item>
+      <title>2. Session 2022 - Nombre Lisse</title>
+      <link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam2/</guid>
+      <description>Examen en PDF&#xD;#&#xD;Description :&#xD;#&#xD;C&amp;rsquo;est un devoir de bac pratique officiel proposé en 2022, une correction en format vidéo sera publiée dans 10 jours Maximum!&#xA;Code de la correction Python :&#xD;#&#xD;from PyQt5.QtWidgets import QApplication from PyQt5.uic import loadUi from math import sqrt def verif(text): return text.isnumeric() and int(text) &amp;gt; 1 def premier(n): c = 0 for i in range(2, n // 2 + 1): if n % i == 0: c = c + 1 return c == 0 def lisse(n): pgd = 1 for i in range(2, n // 2 + 1): if (n % i == 0 and premier(i)): pgd = i return pgd &amp;lt;= sqrt(n) def Play(): text = fen.</description>
+    </item>
+  </channel>
+</rss>
