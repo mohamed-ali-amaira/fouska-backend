@@ -28,5 +28,26 @@
       <guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam2/</guid>
       <description>Vidéo :&#xD;#&#xD;Examen en PDF&#xD;#&#xD;Description :&#xD;#&#xD;C&amp;rsquo;est un devoir de bac pratique officiel proposé en 2022, une correction en format vidéo sera publiée dans 10 jours Maximum!&#xA;Code de la correction Python :&#xD;#&#xD;from PyQt5.QtWidgets import QApplication from PyQt5.uic import loadUi from math import sqrt def verif(text): return text.isnumeric() and int(text) &amp;gt; 1 def premier(n): c = 0 for i in range(2, n // 2 + 1): if n % i == 0: c = c + 1 return c == 0 def lisse(n): pgd = 1 for i in range(2, n // 2 + 1): if (n % i == 0 and premier(i)): pgd = i return pgd &amp;lt;= sqrt(n) def Play(): text = fen.</description>
     </item>
+    <item>
+      <title>3. Session 2023 - Rotation miroire</title>
+      <link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam3/</guid>
+      <description>&#xD;Vidéo :&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>4. Session 2023 - SuperPairPlus</title>
+      <link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam4/</guid>
+      <description>&#xD;Vidéo :&#xD;#&#xD;</description>
+    </item>
+    <item>
+      <title>5. Session 2023 - Triangle De Mots</title>
+      <link>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pratik-tn-693c7eaaabe6.herokuapp.com/Examens-Bac-Pratique-Pr%C3%A9c%C3%A9dents/exam5/</guid>
+      <description>&#xD;Vidéo :&#xD;#&#xD;</description>
+    </item>
   </channel>
 </rss>
