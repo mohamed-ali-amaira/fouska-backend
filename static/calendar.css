@@ -1,0 +1,68 @@
+/* Dark Theme Styling */
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+/* Calendar Container */
+.calendar-container {
+  background-color: #1c1c1c;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 600px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  direction: rtl; /* Right-to-left layout */
+}
+
+/* Calendar Header */
+.calendar-header {
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  color: #f0f0f0;
+}
+
+/* Live Session List */
+.sessions-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Live Session Item */
+.session-item {
+  background-color: #333333;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #444444;
+  transition: background-color 0.3s ease;
+}
+
+.session-item:hover {
+  background-color: #444444;
+}
+
+.session-item p {
+  margin: 5px 0;
+}
+
+/* Session Time */
+.session-time {
+  font-weight: bold;
+  color: #a5d6a7; /* Light green color */
+}
+
+/* Link */
+.session-link a {
+  color: #64b5f6; /* Light blue color */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.session-link a:hover {
+  text-decoration: underline;
+}
