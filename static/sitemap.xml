@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CHAPITRE_1__Les_Structures_De_Donnes_/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-Conditionelles/cours_les_structures_conditionnelles/</loc>
@@ -11,6 +13,10 @@
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/cours_les_structures_it%C3%A9ratives/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Replay-Live/Replay-Live/live-2-first-replayed/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_1/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CHAPITRE_2__Les_Structures_conditionelles/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Replay-Live/Replay-Live/live-1/</loc>
   </url><url>
@@ -22,6 +28,8 @@
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_2/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_2/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Replay-Live/Replay-Live/live-3/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-Conditionelles/les_structures_conditionnelles2/</loc>
@@ -29,6 +37,8 @@
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es3/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_3/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_3/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Replay-Live/Replay-Live/live-4/</loc>
   </url><url>
@@ -38,6 +48,10 @@
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_4/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_4/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CHAPITRE_5__Les_Sous-Programmes_/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Replay-Live/Replay-Live/live-5/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-Conditionelles/les_structures_conditionnelles4/</loc>
@@ -45,6 +59,10 @@
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es5/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_5/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_5/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CORRECTION_CHAPITRE_1__Les_Structures_De_Donnes_/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Replay-Live/Replay-Live/live-6/</loc>
   </url><url>
@@ -54,6 +72,10 @@
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_6/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_6/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CORRECTION_CHAPITRE_2__Les_Structures_conditionelles/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Replay-Live/Replay-Live/live-7/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-Conditionelles/les_structures_conditionnelles6/</loc>
@@ -62,11 +84,15 @@
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_7/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_7/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-Conditionelles/les_structures_conditionnelles7/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es8/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_8/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_8/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-Conditionelles/les_structures_conditionnelles8/</loc>
   </url><url>
@@ -74,43 +100,85 @@
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_9/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_9/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CORRECTION_CHAPITRE_5__Les_Sous-Programmes_/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es10/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_10/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-Conditionelles/les_structures_conditionnelles9/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_10/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CHAPITRE_3__Les_Structures_iteratives/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es11/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_11/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_11/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CHAPITRE_4__Les_Tableaux_/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es12/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_12/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_12/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CORRECTION_CHAPITRE_3__Les_Structures_iteratives/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es13/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/les_structures_it%C3%A9ratives_13/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_13/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/CORRECTION_CHAPITRE_4__Les_Tableaux_/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es14/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_14/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es15/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_15/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es16/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_16/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es17/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/python_17/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Les-Tableaux/les_tableaux_2/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es18/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Les-Tableaux/les_tableaux_1/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es19/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/la_difference_entre_les_3_boucles/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es20/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Exercices-Divers/exercice/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es-21/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Exercices-Divers/exercice_4/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es22/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Exercices-Divers/exercice_3/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-De-Donn%C3%A9es/les_structures_de_donn%C3%A9es23/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Exercices-Divers/exercice_2/</loc>
   </url><url>
     <loc>https://study.pratik.tn/</loc>
   </url><url>
@@ -122,13 +190,17 @@
   </url><url>
     <loc>https://study.pratik.tn/Cours/Les-Structures-It%C3%A9ratives/</loc>
   </url><url>
+    <loc>https://study.pratik.tn/Cours/Les-Tableaux/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Exercices-Divers/</loc>
+  </url><url>
+    <loc>https://study.pratik.tn/Cours/Python/</loc>
+  </url><url>
     <loc>https://study.pratik.tn/Replay-Live/Replay-Live/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Replay-Live/</loc>
   </url><url>
-    <loc>https://study.pratik.tn/Series-Dexercice/Les-Structures-de-donn%C3%A9es/S%C3%A9rie1/</loc>
-  </url><url>
-    <loc>https://study.pratik.tn/Series-Dexercice/Les-Structures-de-donn%C3%A9es/</loc>
+    <loc>https://study.pratik.tn/Series-Dexercice/Series/</loc>
   </url><url>
     <loc>https://study.pratik.tn/Series-Dexercice/</loc>
   </url><url>
